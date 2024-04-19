@@ -8,8 +8,7 @@ are from the [Public Domain](https://en.wikipedia.org/wiki/Public_domain)
 
 
 
-<a href="https://apps.apple.com/app/openleaf/id6450374275"><img src="https://www.freepnglogos.com/uploads/app-store-logo-png/download-on-the-app-store-logo-png-23.png" width="200"></img></a>
-<br> Please star⭐ the repo if you like what you see😉.
+
 
 ## 💻 Requirements
 
