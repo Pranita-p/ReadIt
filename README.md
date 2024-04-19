@@ -6,10 +6,7 @@ are from the [Public Domain](https://en.wikipedia.org/wiki/Public_domain)
 <a href="http://www.feedbooks.com/"><img src="ss/logo_feedbooks.png" width="200"/></a>
 <br>
 
-The [Feedbooks API](http://www.feedbooks.com/api) was used to fetch books. <br>
-<br>
-<a href="https://www.vecteezy.com/vector-art/599678-book-reading-logo-and-symbols-template-icons">App
-icon</a> <br> <br>
+
 
 <a href="https://apps.apple.com/app/openleaf/id6450374275"><img src="https://www.freepnglogos.com/uploads/app-store-logo-png/download-on-the-app-store-logo-png-23.png" width="200"></img></a>
 <br> Please star⭐ the repo if you like what you see😉.
